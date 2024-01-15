@@ -10,3 +10,4 @@ The /ProcessPortal alone offers a complete view of the tasks and processes of al
 
 The WfPS runtime /Workplace portal does not offer federated access capabilities and allows the user to interact only with applications deployed in WfPS.
 
+In part 2 the various CR configurations of the BAW, PFS and WfPS deployment are presented.
